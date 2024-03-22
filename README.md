@@ -7,8 +7,7 @@ Technology Stack for Continuous Medical Patient Monitoring
 # 4- Connect Medical Institutions with the Patients
 # 5- Implement current proved Health Organizations Standards
 # 6- Connect Professional Organizations with the Development of the Subprojects
-# 8- Connect Health Students with the Subprojects
+# 7- Connect Health Students with the Subprojects
 # 8- Implement the current project stack on technology frameworks providers
 # 9- Connect Bioengineering Professionals with the Development of the Project
-
 First Draft: martihns24
