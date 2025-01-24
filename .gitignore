@@ -1,0 +1,65 @@
+# IntelliJ IDEA specific files
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# Logs
+/logs
+*.log
+
+# Target directory (for Maven/Gradle projects)
+/target/
+/build/
+
+# Temporary files
+*.swp
+*~
+*.tmp
+*.bak
+*.old
+*.orig
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Java class files
+*.class
+
+# Maven specific files
+.mvn/
+!/.mvn/wrapper/maven-wrapper.jar
+
+# Gradle specific files
+.gradle/
+build/
+
+# Eclipse specific files (in case the project is opened in Eclipse as well)
+.project
+.classpath
+.settings/
+.factorypath
+
+# Generated files
+*.jar
+*.war
+*.ear
+
+# IntelliJ IDEA Plugin specific
+.idea_modules/
+
+# Node.js (if the project uses Node.js alongside Java)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Coverage reports
+coverage/
+*.lcov
+
+# Tool-specific files
+.vscode/
+.out/
+bin/
